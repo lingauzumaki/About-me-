@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Linga Aditya.P !&#x20;
+# 👋 Hello, I'm Linga Aditya.P ! 
 
 ## 🚀 About Me
 
@@ -23,8 +23,8 @@ I'm a 13-year-old AI developer and robotics enthusiast, passionate about buildin
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** - RoboRoarz 2024 Robotics Competition
-- 🏅 **5th Place** - RoboRoarz 2025 Robotics Competition
+- 🥇 **2nd Place** - RoboRoarz 2024 Robotics Competition
+- 🏅 **1st Place** & **5th Place** - RoboRoarz 2025 Robotics Competition
 - 🚀 Built a fully functional AI chatbot without API keys
 - 🎮 Developed an AI-powered FPS game with realistic bot movement
 - 🌐 Created a game center platform with direct game uploads
@@ -68,3 +68,8 @@ More projects coming soon! Stay tuned.
 
 Always pushing the boundaries of AI, web development, robotics, and game design!
 
+## 📬 Contact Me
+
+- **Discord:** [Linga0684_97431](https://discord.com/users/Linga0684_97431)
+- **Email:** [lingathedream6@gmail.com](mailto:lingathedream6@gmail.com)
+- **Phone:** +91 123 456 7890
