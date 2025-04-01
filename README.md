@@ -2,17 +2,18 @@
 
 ## 🚀 About Me
 
-I am the founder of **LINGA AI**, an AI development company focused on building innovative AI-powered applications and game technologies.
+I am the founder of **LINGA AI**, an AI development company focused on building innovative AI-powered applications and game technologies.  
 I'm a 13-year-old AI developer and robotics enthusiast, passionate about building next-gen AI models, web applications, and FPS games. My goal is to create AI-driven solutions that redefine human-machine interaction.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Next.js, TailwindCSS
+- **Frontend:** React.js, Next.js, TailwindCSS, HTML, CSS, JavaScript
 - **Backend:** Node.js, Firebase
 - **AI/ML:** Custom AI Models, OpenAI (without API keys), TensorFlow
-- **Game Development:** WebGL, Three.js, AI-powered bots
+- **Game Development:** WebGL, Three.js, JavaScript (for game mechanics), AI-powered bots
 - **Robotics:** Arduino, Smorphi Robot, Bluetooth-controlled bots
-- **Tools:** Git, VS Code, Figma, Arduino IDE
+- **Languages:** Python, C++, JavaScript, CSS, HTML
+- **Tools:** Git, VS Code, Figma, Arduino IDE , Hugging Face
 
 ## 🎯 Current Focus
 
@@ -50,7 +51,7 @@ A smart AI chatbot built without API keys, designed to function like ChatGPT.
 
 A browser-based FPS game featuring AI-driven bots with different difficulty levels.
 
-- **Tech:** WebGL, A\* Pathfinding, Node.js
+- **Tech:** WebGL, A\* Pathfinding, Node.js, JavaScript
 - **Features:** Realistic AI movement, Leaderboard, Game settings
 
 ### **DARKRISE (Anime Project)** 🔥
@@ -72,4 +73,4 @@ Always pushing the boundaries of AI, web development, robotics, and game design!
 
 - **Discord:** [Linga0684_97431](https://discord.com/users/Linga0684_97431)
 - **Email:** [lingathedream6@gmail.com](mailto:lingathedream6@gmail.com)
-- **Phone:** +91 123 456 7890
+
