@@ -8,7 +8,7 @@ I'm a 13-year-old AI developer and robotics enthusiast, passionate about buildin
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, Next.js, TailwindCSS, HTML, CSS, JavaScript
-- **Backend:** Node.js, Firebase
+- **Backend:** Node.js, Firebase, Python
 - **AI/ML:** Custom AI Models, OpenAI (without API keys), TensorFlow
 - **Game Development:** WebGL, Three.js, JavaScript (for game mechanics), AI-powered bots
 - **Robotics:** Arduino, Smorphi Robot, Bluetooth-controlled bots
